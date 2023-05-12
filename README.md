@@ -1,1 +1,1 @@
-Simple E-commerce webSite
+Simple E-commerce web Site
